@@ -10,11 +10,6 @@ import org.junit.Test;
 
 public class FilterIteratorTest {
 
-	@Test
-	public void testFilteringIterator() {
-	
-	}
-
 	
 	@Test
 	public void testHasNext_Basic(){
